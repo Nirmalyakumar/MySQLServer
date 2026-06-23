@@ -11,7 +11,7 @@ public class InsertIntoDatabase {
 
 		String url = "jdbc:mysql://localhost:3306/read_demo";
 		String username = "root";
-		String password = "cfg1234";
+		String password = "Coforge@123456";
 
 		try {
 			// Optional for older JDBC versions
